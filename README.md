@@ -1,4 +1,4 @@
-# rl-fetch
+# Fetch Mobile Manipulator
 
 ## Fetch Push
 
@@ -10,7 +10,7 @@
 
 ## Fetch Pick and Place
 
-## Fetch Slide
+## Fetch Reach
 
 ## Results
 
