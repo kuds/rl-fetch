@@ -12,6 +12,8 @@
 
 ## Fetch Reach
 
+![image](./Images/tqc_fetch_push_dense.gif)
+
 ## Results
 
 ## Training Notes
