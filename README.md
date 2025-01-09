@@ -27,4 +27,6 @@ Hardware: Google Colab T4
 
 ## Training Notes
 
-## Finding Theta Blogs
+## Finding Theta Blog Posts: 
+- [Mastering Robotic Manipulation with Reinforcement Learning: TQC and DDPG for Fetch Environments]([https://www.findingtheta.com/blog/solving-gymnasiums-lunar-lander-with-deep-q-learning-dqn](https://www.findingtheta.com/blog/mastering-robotic-manipulation-with-reinforcement-learning-tqc-and-ddpg-for-fetch-environments))
+
