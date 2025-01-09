@@ -23,7 +23,7 @@ Hardware: Google Colab T4
 | Reach          | TQC        | -0.47          | 4:53:16       | 499,999              |
 | Push           | TQC        |                |               |                      |
 | Slide          | TQC        |                |               |                      |
-| Pick and Place | Yes        |                |               |                      |
+| Pick and Place | TQC        |                |               |                      |
 
 ## Training Notes
 
