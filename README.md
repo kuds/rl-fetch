@@ -12,7 +12,7 @@
 
 ## Fetch Reach
 
-![image](./Images/tqc_fetch_push_dense.gif)
+![image](./Images/tqc_fetch_reach_dense.gif)
 
 ## Results
 
