@@ -21,7 +21,7 @@ Hardware: Google Colab T4
 | Environment    | Model Type | Average Reward | Training Time | Total Training Steps |
 |----------------|------------|----------------|---------------|----------------------|
 | Reach          | TQC        | -0.47          | 4:53:16       | 499,999              |
-| Push           | TQC        |                |               |                      |
+| Push           | TQC        | -3.02          | 10:02:34      | 1,000,000            |
 | Slide          | TQC        | -6.90          | 9:44:20       | 1,000,000            |
 | Pick and Place | TQC        |                |               |                      |
 
