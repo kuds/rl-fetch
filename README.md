@@ -22,7 +22,7 @@ Hardware: Google Colab T4
 
 | Environment    | Model Type | Average Reward | Total Training Steps | HuggingFace                                                    |
 |----------------|------------|----------------|----------------------|----------------------------------------------------------------|
-| Reach          | TQC        | -0.47          | 499,999              |                                                                |
+| Reach          | TQC        | -0.59          | 1,000,000            | [Link](https://huggingface.co/kuds/fetch-reach-dense-tqc)      |
 | Reach          | DDPG       | -0.57          | 499,996              |                                                                |
 | Push           | TQC        | -3.02          | 1,000,000            |                                                                |
 | Slide          | TQC        | -6.90          | 1,000,000            |                                                                | 
