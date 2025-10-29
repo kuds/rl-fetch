@@ -20,13 +20,13 @@
 
 Hardware: Google Colab T4
 
-| Environment    | Model Type | Average Reward | Total Training Steps | HuggingFace                                              |
-|----------------|------------|----------------|----------------------|----------------------------------------------------------|
-| Reach          | TQC        | -0.47          | 499,999              |                                                          |
-| Reach          | DDPG       | -0.57          | 499,996              |                                                          |
-| Push           | TQC        | -3.02          | 1,000,000            |                                                          |
-| Slide          | TQC        | -6.90          | 1,000,000            |                                                          | 
-| Pick and Place | TQC        | -2.07          | 1,000,000            | [Link](https://huggingface.co/kuds/fetch-pick-place-tqc) | 
+| Environment    | Model Type | Average Reward | Total Training Steps | HuggingFace                                                    |
+|----------------|------------|----------------|----------------------|----------------------------------------------------------------|
+| Reach          | TQC        | -0.47          | 499,999              |                                                                |
+| Reach          | DDPG       | -0.57          | 499,996              |                                                                |
+| Push           | TQC        | -3.02          | 1,000,000            |                                                                |
+| Slide          | TQC        | -6.90          | 1,000,000            |                                                                | 
+| Pick and Place | TQC        | -2.07          | 1,000,000            | [Link](https://huggingface.co/kuds/fetch-pick-place-dense-tqc) | 
 
 ## Training Notes
 - Set `learning_starts` needs to be greater than 100 as the Fetch environment are defaulted to end at 50 steps (`max_episode_steps=50`) and this will cause for TQC
