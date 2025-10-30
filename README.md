@@ -30,6 +30,7 @@ Hardware: Google Colab L4
 
 ## Training Notes
 - Set `learning_starts` needs to be greater than 100 as the Fetch environment are defaulted to end at 50 steps (`max_episode_steps=50`) and this will cause for TQC
+- Due to overestimation issues with DDPG, it will struggle in more complex environment like in Pick & Place and Slide. So it is excepted for DDPG struggle to "solve" the Fetch environments
 
 ## Finding Theta Blog Posts
 - [Mastering Robotic Manipulation with Reinforcement Learning: TQC and DDPG for Fetch Environments](https://www.findingtheta.com/blog/mastering-robotic-manipulation-with-reinforcement-learning-tqc-and-ddpg-for-fetch-environments)
